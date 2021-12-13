@@ -1,0 +1,10 @@
+[AI] PAUT_USB_Cable: First check-in
+
+[Change]
+- WOOF
+
+[Symptom]
+- N/A
+
+[Related Issue]
+- N/A
